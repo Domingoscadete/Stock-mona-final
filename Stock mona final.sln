@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock mona final", "Stock mona final\Stock mona final.csproj", "{A930BD5D-7B79-429E-9DD9-BE907422DE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A930BD5D-7B79-429E-9DD9-BE907422DE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930BD5D-7B79-429E-9DD9-BE907422DE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A930BD5D-7B79-429E-9DD9-BE907422DE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A930BD5D-7B79-429E-9DD9-BE907422DE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AB8D8C-8208-4535-A01E-E51F202DF957}
+	EndGlobalSection
+EndGlobal
